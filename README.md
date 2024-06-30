@@ -4,4 +4,4 @@
 
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=mstouk57g&show_icons=true&count_private=true&locale=cn)
 
-![GitHub账户状态]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minoricew)
+![GitHub账户状态](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstouk57g)
