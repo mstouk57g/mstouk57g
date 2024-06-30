@@ -4,7 +4,7 @@
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-ConiMite-green)](https://space.bilibili.com/3493092334242540)
 [![Bilibili](https://img.shields.io/badge/ZhiHu-ConiMite-blue)](https://www.zhihu.com/people/vc0qlq)
-[![GitHubPage](https://img.shields.io/badge/GitHub-Page-brown)](mstouk57g.github.io)
+[![GitHubPage](https://img.shields.io/badge/GitHub-Page-brown)](https://mstouk57g.github.io)
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
 
