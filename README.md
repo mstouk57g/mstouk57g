@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
 
-![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mstouk57g&layout=compact&show_icons=true&count_private=true&locale=cn)
+![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mstouk57g&layout=compact&show_icons=true&count_private=true&locale=cn&layout=donut)
 
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=mstouk57g&show_icons=true&count_private=true&locale=cn)
 
