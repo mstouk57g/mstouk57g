@@ -6,15 +6,22 @@
 
 A senior high school student from Jinan, Shandong Province. Programming is a hobby and it's my favorite thing.
 
+座右铭：相信相信的力量 ~~（济南高新区教育局长高一鸣大惊）~~
+
+### 榜样将你引向成功 | My following examples
+
+[where where](https://github.com/wherewhere)
+[Shompinice](https://github.com/Shomnipotence)
+
 ### 人总要找些事情做 | Things what I'am doing now
 
 * [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader)
 
   优雅地下载音乐，使用NCMA SDK，支持插件来使用更多API
 
-  Download music smoothly. It uses the NCMA SDK, supports plugins to use more APIs
+  Download music smoothly. It uses the NCMA SDK, supports plugins to use more APIs.
   
-  AZ工作室成员，负责该项目 | I'am charging this project as a member of AZ-Studio
+  AZ工作室成员，负责该项目 | I'am charging this project as a member of AZ-Studio.
 
 * [WinUI3学习Blog](https://github.com/mstouk57g/ConiMite_WinUI)
 
@@ -41,6 +48,7 @@ A senior high school student from Jinan, Shandong Province. Programming is a hob
 [![GitHubPage](https://img.shields.io/badge/GitHub-Page-brown)](https://mstouk57g.github.io)
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
+[![QQ](https://img.shields.io/badge/QQ_ID-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
 
 ### 统计信息 | Statistics
 
