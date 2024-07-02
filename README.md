@@ -10,7 +10,9 @@ A senior high school student from Jinan, Shandong Province. Programming is a hob
 
 * [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader)
 
-  优雅地下载音乐，使用NCMA SDK，支持插件来使用更多API | Download music smoothly. It uses the NCMA SDK, supports plugins to use more APIs
+  优雅地下载音乐，使用NCMA SDK，支持插件来使用更多API
+
+  Download music smoothly. It uses the NCMA SDK, supports plugins to use more APIs
   
   AZ工作室成员，负责该项目 | I'am charging this project as a member of AZ-Studio
 
