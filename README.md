@@ -2,7 +2,7 @@
 
 我是ntcho&ConiMite，也可以是mstouk57g | ntcho&ConiMite(mstouk57g) is here~
 
-### 我正在忙的事情 | Things what I'am doing now
+### 人总要找些事情做 | Things what I'am doing now
 
 * [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader)
 
@@ -13,6 +13,20 @@
 * [WinUI3学习Blog](https://github.com/mstouk57g/ConiMite_WinUI)
 
   学习WinUI3和WASDK，并记录所学内容（如果能帮上别人就好）
+
+### 学习使人进步 | Things what I'am learning now
+
+* **WinUI3和WASDK，以及C#语言**
+
+* **PyQt和pyqt-fluent-widgets**
+
+* Java语言和MinecraftMod
+
+* Android应用开发和MaterialDesign
+
+* 《30天自制操作系统》操作系统相关
+
+* ~~HarmonyOS应用开发~~ （HW广告太多，不想搞了）
 
 ### 这里有一些我的社交地址 | Here are some of my addresses
 
