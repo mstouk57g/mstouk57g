@@ -1,32 +1,36 @@
 ### Hi there 👋
 
-我是ntcho&ConiMite，也可以是mstouk57g | ntcho&ConiMite(mstouk57g) is here~
+**我是ntcho&ConiMite，也可以是mstouk57g | ntcho&ConiMite(mstouk57g) is here~**
+
+来自山东济南的高中牲一头（2024年9月入学），编程作为课余爱好，是个人最喜欢的事情
+
+A senior high school student from Jinan, Shandong Province. Programming is a hobby and it's my favorite thing.
 
 ### 人总要找些事情做 | Things what I'am doing now
 
 * [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader)
 
-  优雅地下载音乐，使用NCMA SDK，支持插件来使用更多API
+  优雅地下载音乐，使用NCMA SDK，支持插件来使用更多API | Download music smoothly. It uses the NCMA SDK, supports plugins to use more APIs
   
-  AZ工作室成员，负责该项目
+  AZ工作室成员，负责该项目 | I'am charging this project as a member of AZ-Studio
 
 * [WinUI3学习Blog](https://github.com/mstouk57g/ConiMite_WinUI)
 
-  学习WinUI3和WASDK，并记录所学内容（如果能帮上别人就好）
+  学习WinUI3和WASDK，并记录所学内容（如果能帮上别人就好） | I'am learning WinUI3 and WASDK.
 
 ### 学习使人进步 | Things what I'am learning now
 
-* **WinUI3和WASDK，以及C#语言**
+* **WinUI3和WASDK，以及C#语言 | WinUI3, WASDK and C# language**
 
-* **PyQt和pyqt-fluent-widgets**
+* **PyQt和pyqt-fluent-widgets | PyQt and pyqt-fluent-widgets**
 
-* Java语言和MinecraftMod
+* Java语言和MinecraftMod | Java language, and how to biuld a Minecraft Mod
 
-* Android应用开发和MaterialDesign
+* Android应用开发和MaterialDesign | Android Application and Material Design
 
-* 《30天自制操作系统》操作系统相关
+* 《30天自制操作系统》操作系统相关 | Operating System
 
-* ~~HarmonyOS应用开发~~ （HW广告太多，不想搞了）
+* ~~HarmonyOS应用开发 | HarmonyOS Application~~ （HW广告太多，不想搞了）
 
 ### 这里有一些我的社交地址 | Here are some of my addresses
 
