@@ -34,7 +34,7 @@ A senior high school student from Jinan, Shandong Province. Programming is a hob
 [![GitHubPage](https://img.shields.io/badge/GitHub-Page-brown)](https://mstouk57g.github.io)
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
-[![QQ](https://img.shields.io/badge/QQ_ID-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
+[![QQ](https://img.shields.io/badge/QQ-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
 
 ### 统计信息 | Statistics
 
