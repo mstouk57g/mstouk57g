@@ -34,6 +34,12 @@
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
 [![QQ](https://img.shields.io/badge/QQ-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
 
+### 欢迎各位赞助
+
+为爱发电
+
+[爱发电](https://ifdian.net/a/mstouk57g)
+
 ### 统计信息
 
 ![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mstouk57g&show_icons=true&count_private=true&locale=cn&layout=donut&theme=transparent)
