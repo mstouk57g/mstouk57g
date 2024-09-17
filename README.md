@@ -2,7 +2,7 @@
 
 **我是ntcho&ConiMite**
 
-来自山东济南的高中牲一头，编程作为课余爱好，是个人最喜欢的事情
+高中牲一头，From山东省实验中学
 
 座右铭：相信相信的力量 ~~（济南高新区教育局长高一鸣大惊）~~
 
@@ -28,7 +28,7 @@
 ### 这里有一些我的社交地址
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-ConiMite-green)](https://space.bilibili.com/3493092334242540)
-[![Bilibili](https://img.shields.io/badge/ZhiHu-ConiMite-blue)](https://www.zhihu.com/people/vc0qlq)
+[![ZhiHu](https://img.shields.io/badge/ZhiHu-ConiMite-blue)](https://www.zhihu.com/people/vc0qlq)
 [![GitHubPage](https://img.shields.io/badge/GitHub-Page-brown)](https://mstouk57g.github.io)
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
@@ -36,9 +36,7 @@
 
 ### 欢迎各位赞助
 
-为爱发电
-
-[爱发电](https://ifdian.net/a/mstouk57g)
+* 为[爱发电](https://ifdian.net/a/mstouk57g)
 
 ### 统计信息
 
