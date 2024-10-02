@@ -2,13 +2,13 @@
 
 **我是ntcho&ConiMite**
 
-高中牲一头，From山东省实验中学
+高中牲一头，From山东省实验中学（东校）
 
 座右铭：相信相信的力量 ~~（济南高新区教育局长高一鸣大惊）~~
 
 ### 榜样将你引向成功
 
-[where where](https://github.com/wherewhere)
+[wherewhere](https://github.com/wherewhere)
 [Shompinice](https://github.com/Shomnipotence)
 
 ### 人总要找些事情做
