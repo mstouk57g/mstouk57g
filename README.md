@@ -13,7 +13,7 @@
 
 ### 人总要找些事情做
 
-* [动车组交路查询](https://github.com/AZ-Studio-2023/HCM)
+* [RailGo](https://github.com/orgs/AZ-Studio-2023/teams/railgo/repositories)
 
   作为一个铁路爱好者，新出的想法。用WinUI3随便写写，顺便学习WinUI3啥的
 
@@ -23,7 +23,7 @@
 
 ### 学习使人进步
 
-* **WinUI3和WASDK，以及C#语言e**
+* **WinUI3和WASDK，以及C#语言**
 
 ### 这里有一些我的社交地址
 
@@ -33,6 +33,7 @@
 [![YouTube](https://img.shields.io/badge/Youtube-ntcho-cyan)](https://youtube.com/@ntcho-ge9gx)
 [![XBox](https://img.shields.io/badge/XBox-Coni-yellow)](https://www.xbox.com/en-US/play/user/ConiMite)
 [![QQ](https://img.shields.io/badge/QQ-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
+[![X](https://img.shields.io/badge/X-ntcho788787-pink)](https://x.com/ntcho788787)
 
 ### 欢迎各位赞助
 
