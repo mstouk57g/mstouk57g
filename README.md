@@ -16,7 +16,7 @@
 ![数学1](https://github.com/user-attachments/assets/47f724a9-75a4-4f58-970b-950d1acdea6c)
 ![英语1](https://github.com/user-attachments/assets/aa6afa86-3c06-4b8a-938e-b97d512e91e2)
 ![物理1](https://github.com/user-attachments/assets/6f3ff0fc-dbc9-4af4-a15e-5a1cf3eee612)
-![化学1](https://github.com/user-attachments/assets/50056c69-2c7e-41ad-b06d-8dbfc86d69d1)
+![化学1](https://github.com/user-attachments/assets/c15d680b-7f24-4ca2-8123-5cad25314f28)
 ![生物1](https://github.com/user-attachments/assets/a93afbf9-b614-4f7a-9d56-8f4c12391270)
 
 ## 我的技术栈
