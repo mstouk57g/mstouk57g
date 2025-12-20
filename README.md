@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 **我是ntcho&ConiMite**
 
@@ -6,26 +6,25 @@
 
 座右铭：相信相信的力量 ~~（济南高新区教育局长高一鸣大惊）~~
 
-### 榜样将你引向成功
+## 榜样将你引向成功
 
-[wherewhere](https://github.com/wherewhere)
-[Shompinice](https://github.com/Shomnipotence)
+![榜样将我引向成功](https://github.com/user-attachments/assets/4ccff1d2-6534-44b7-aefc-f3dca067376e)
 
-### 人总要找些事情做
+## 我正在做什么
 
-* [RailGo](https://github.com/orgs/AZ-Studio-2023/teams/railgo/repositories)
+![语文1](https://github.com/user-attachments/assets/968decf3-1a32-4593-9bfc-fe65fa1a8027)
+![数学1](https://github.com/user-attachments/assets/47f724a9-75a4-4f58-970b-950d1acdea6c)
+![英语1](https://github.com/user-attachments/assets/bbbf8e08-38c0-4b6f-852a-9b40b74298d1)
+![物理1](https://github.com/user-attachments/assets/6f3ff0fc-dbc9-4af4-a15e-5a1cf3eee612)
+![化学1](https://github.com/user-attachments/assets/7462d2be-2237-4bdd-aa63-08e3b518836e)
+![生物1](https://github.com/user-attachments/assets/a93afbf9-b614-4f7a-9d56-8f4c12391270)
 
-  作为一个铁路爱好者，新出的想法。用WinUI3随便写写，顺便学习WinUI3啥的
+## 我的技术栈
 
-* [WinUI3学习Blog](https://github.com/mstouk57g/ConiMite_WinUI)
+![我的技术栈](https://github.com/user-attachments/assets/cc5b1b95-5ea7-476e-b985-504b537c1498)
+![?????](https://github.com/user-attachments/assets/ccb178a5-d381-496e-86ca-23826204b449)
 
-  学习WinUI3和WASDK，并记录所学内容（如果能帮上别人就好） 
-
-### 学习使人进步
-
-* **WinUI3和WASDK，以及C#语言**
-
-### 这里有一些我的社交地址
+## 这里有一些我的社交地址
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-ConiMite-green)](https://space.bilibili.com/3493092334242540)
 [![ZhiHu](https://img.shields.io/badge/ZhiHu-ConiMite-blue)](https://www.zhihu.com/people/vc0qlq)
@@ -35,16 +34,14 @@
 [![QQ](https://img.shields.io/badge/QQ-NtchoConiMite-black)](tencent://message/?uin=3776473661&Site=&Menu=yes)
 [![X](https://img.shields.io/badge/X-ntcho788787-pink)](https://x.com/ntcho788787)
 
-### 欢迎各位赞助
+## 欢迎各位赞助
 
 * 为[爱发电](https://ifdian.net/a/mstouk57g)
 
-### 统计信息
+## 统计信息
 
 ![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mstouk57g&show_icons=true&count_private=true&locale=cn&layout=donut&theme=transparent)
 
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=mstouk57g&show_icons=true&count_private=true&locale=cn&theme=transparent)
-
-![GitHub Stauts](https://streak-stats.demolab.com/?user=mstouk57g&stroke=0891b2&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=586e75&currStreakLabel=0891b2&sideNums=586e75&sideLabels=586e75&dates=586e75&theme=transparent)
 
 ![GitHub账户状态](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstouk57g&theme=transparent)
